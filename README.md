@@ -16,14 +16,12 @@
 ### 我的技能栈：
 - **编程语言:** C, Python, HTML, CSS, JavaScript (学习中)
 - **前端框架/库:** React (准备学习)
-- **其他:** (如果你有其他工具或库的经验可以添加，例如：Numpy, Pandas, PyGame等)
 
 ### 联系我：
-- 📫 可以通过 GitHub Issues 或 [你的邮箱地址，如果想公开] 与我交流。
+- 📫 可以通过 GitHub Issues 或 gasdyueer@gmail.com 与我交流。
 
 ---
 
-感谢访问我的主页！期待与您一同学习和进步。
 
 <!--
 **gasdyueer/Gasdyueer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
