@@ -23,6 +23,28 @@
 ---
 
 
+### About Me:
+- 🎓 A Chinese undergraduate student from a 211 university majoring in mathematics.
+- 🌱 Actively exploring and learning in areas such as front-end development, game development, and AI agent construction.
+- 📚 Proficient in basic C language, primarily using Python for development.
+- 🚀 Currently learning HTML, CSS, JavaScript, and will soon begin learning React.
+
+### Areas I'm Interested In:
+- **Front-end Development:** Building interactive and user-friendly web applications.
+- **Game Development:** Exploring the creativity and technical implementation of games.
+- **AI Agents:** Delving into artificial intelligence and building interesting intelligent systems.
+
+### My Skill Stack:
+- **Programming Languages:** C, Python, HTML, CSS, JavaScript (Learning)
+- **Front-end Frameworks/Libraries:** React (Preparing to learn)
+
+### Contact Me:
+- 📫 You can reach me via GitHub Issues or gasdyueer@gmail.com.
+
+---
+
+
+
 <!--
 **gasdyueer/Gasdyueer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
